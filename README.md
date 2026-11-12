@@ -19,4 +19,4 @@ Deployed and configured a cloud-based enterprise identity and access management 
 ![Azure Resource Group](<status running.png>)
 
 ### Active Directory Users & Computers
-![Active Directory Setup](<insert-exact-screenshot-filename-2.png>)
+![Active Directory Setup](<active directory.png>)
