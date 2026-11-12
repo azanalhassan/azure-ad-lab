@@ -16,7 +16,7 @@ Deployed and configured a cloud-based enterprise identity and access management 
 ## Lab Screenshots
 
 ### Azure Resource Group & Running VMs
-![Azure Resource Group](<insert-exact-screenshot-filename-1.png>)
+![Azure Resource Group](<status running.png>)
 
 ### Active Directory Users & Computers
 ![Active Directory Setup](<insert-exact-screenshot-filename-2.png>)
